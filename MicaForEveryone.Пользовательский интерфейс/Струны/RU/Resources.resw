@@ -142,7 +142,7 @@
     <value>Добавить правило для процесса</value>
   </data>
   <data name="AddRuleAppBarButton.Label" xml:space="preserve">
-    <value>Добавить правило</value>
+    <value>Добавить</value>
   </data>
   <data name="AddRuleDialog.Title" xml:space="preserve">
     <value>Добавить правило</value>
@@ -289,7 +289,7 @@
     <value>Перезагружать при редактировании</value>
   </data>
   <data name="RemoveRuleAppBarButton.Label" xml:space="preserve">
-    <value>Удалить правило</value>
+    <value>Удалить</value>
   </data>
   <data name="SettingsMenuItem.Text" xml:space="preserve">
     <value>Настройки</value>
